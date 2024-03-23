@@ -27,6 +27,7 @@ def create_datalake(dirs:list) -> None:
 
     Return:
         None
+        
     """
 
     for path in dirs:

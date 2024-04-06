@@ -1,4 +1,4 @@
-er"""Autograding script"""
+"""Autograding script"""
 
 import os
 
